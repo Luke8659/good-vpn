@@ -7,7 +7,7 @@
 
 | 机场名称          | 特色亮点                                    | 最具性价比套餐 (价格/流量) |
 | :---------------- | :------------------------------------------ | :------------------------- |
-| [稳定机场](https://hh.linkgoo.top/lepl/xingyun)          | 老牌稳定, IEPL专线, 解锁强, 自研客户端      | ¥18/月 / 200GB    ；88/年 / 2300GB         |
+| [稳定机场](https://user.xxxlsop.com/#/register?code=T8p53oIF)          | 老牌稳定, IEPL专线, 解锁强, 自研客户端      | ¥18/月 / 100GB    ；88/年 / 2300GB         |
 | 一枝红杏机场      | 九年老牌, 稳定低调, IPLC升级, 解锁强        | ¥99/年 / 100GB/月 (Lite)   |
 | 悠兔机场          | 中转稳定, IEPL, 低延迟, 性价比高            | ¥29/月 / 150GB             |
 | ByWave机场        | 高端稳定, 全金融级IEPL, Emby赠送            | ¥30/月 / 150GB (Bronze)    |
@@ -39,9 +39,8 @@
 稳定机场是一家以高速、稳定和多节点著称的老牌科学上网服务商，深受外贸公司、科研人员与科技博主好评，用户复购率高。机场主打企业级IEPL专线，节点覆盖香港、日本、台湾、新加坡、美国等热门地区，并不断扩展至全球30+边缘节点，包括韩国、阿根廷、土耳其、英国、德国、澳大利亚等稀有地区。稳定机场支持ChatGPT、Claude、Bing AI、Midjourney等AI工具，全面解锁Netflix、Disney+、YouTube、TikTok、Hulu、HBO、AbemaTV等主流流媒体，满足追剧、游戏、AI和跨境业务的多样需求。  
 独特优势还包括自研客户端，支持iPhone、Android、MacOS、Windows、Linux等平台，一键导入订阅，操作便捷。购买套餐还赠送iOS美区ID，方便下载科学上网工具。稳定机场采用高优先级、低拥塞的全球带宽线路，晚高峰依然保障高速体验，4K/8K视频流畅播放无压力。支持支付宝、微信等主流支付方式，24小时客服在线，服务体验极佳。节点流量倍率低，流量利用率高，适合长期稳定使用。
 
-- [ **稳定官网入口**](https://hh.linkgoo.top/lepl/xingyun)
-- [ **稳定官网入口2**](https://cdn.xxxlsop3.com)
-- [ **稳定官网入口3**](https://cdn.xxxlsop3.xyz)
+- [ **稳定官网入口**](https://user.xxxlsop.com/#/register?code=T8p53oIF)
+
 - ![稳定图片](https://github.com/user-attachments/assets/9eaa9c40-ab38-48ca-8235-209baa40f592)
 
 ### 稳定机场促销活动&优惠码汇总
@@ -57,13 +56,19 @@
 
 | 套餐类型   | 订阅周期 | 价格（元） | 流量           | 节点速率   | 适用人群           |
 |------------|----------|------------|----------------|------------|--------------------|
-| 轻量套餐   | 月付     | 18         | 200GB/月       | 1000Mbps   | 轻度用户/日常浏览   |
+| 轻量套餐   | 月付     | 18         | 100GB/月       | 1000Mbps   | 轻度用户/日常浏览   |
 | 专业套餐   | 月付     | 23         | 300GB/月       | 1000Mbps   | 中度用户/流媒体     |
 | 高级套餐   | 月付     | 35         | 800GB/月       | 1000Mbps+  | 重度用户/多设备     |
 | 年付套餐A  | 年付     | 56         | 600GB/年       | 1000Mbps   | 经济实用/备用线路   |
 | 年付套餐B  | 年付     | 88         | 2300GB/年      | 1000Mbps+  | 家庭/高流量         |
 | 年付套餐C  | 年付     | 129        | 3200GB/年      | 1000Mbps+  | 超大流量/企业级     |
 
+### 流量包（一次性购买，用完为止）
+
+- 299元：4000GB流量
+- 499元：8000GB流量
+- 48元：200GB流量
+- 98元：500GB流量
 ---
 ## 一枝红杏机场
 
@@ -747,10 +752,7 @@ WgetCloud机场（原GaCloud）自2021年运营至今，凭借多线BGP中转、
 ![最新性价比VPN推荐，稳定机场解锁ChatGPT、Netflix、TikTok-好用的翻墙梯子第3张__](https://github.com/user-attachments/assets/e34bdf28-ec00-4e1a-a647-281789125505)
 
 
-查看更多推荐资讯，请访问以下文章：
-[20个中国稳定VPN推荐](https://Luke8659.github.io/20-best-vpn/)  - 
-[最新性价比VPN](https://Luke8659.github.io/good-vpn/)  - 
-[机场推荐](https://luke8659.github.io/ji-chang-tui-jian/) 
+更多相关内容，请访问- [优惠仓库](https://nodesilo.org/) - [翻墙梯子](https://nodebest.xyz/) - [稳定VPN](https://www.stablevpner.com/) - [机场8指南](https://www.jichang8.com/) - [机场导航站](https://jichangdaohangzhan.org/) 	 - [机场推荐站](https://jichang-tuijian.com/) 
 
 希望以上精选的机场推荐和科普信息，能帮你根据预算、流量和解锁需求，快速锁定最适合你的翻墙梯子。告别选择困难，找到稳定高速的科学上网伙伴，畅享无界网络！
 
